@@ -1,5 +1,5 @@
 def solution(N, A):
-    maximum = 0
+    maximum = 0 
     lst = [0]*N
     for x in A:
         if x == N + 1:
